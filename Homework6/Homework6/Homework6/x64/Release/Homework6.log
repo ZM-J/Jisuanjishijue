@@ -1,0 +1,22 @@
+﻿  main.cpp
+main.obj : error LNK2001: 无法解析的外部符号 __imp_ShowCursor
+main.obj : error LNK2001: 无法解析的外部符号 __imp_SetForegroundWindow
+main.obj : error LNK2001: 无法解析的外部符号 __imp_SetWindowLongPtrA
+main.obj : error LNK2001: 无法解析的外部符号 __imp_GetWindowLongPtrA
+main.obj : error LNK2001: 无法解析的外部符号 __imp_PeekMessageA
+main.obj : error LNK2001: 无法解析的外部符号 __imp_SHGetSpecialFolderPathA
+main.obj : error LNK2001: 无法解析的外部符号 __imp_SetDIBitsToDevice
+main.obj : error LNK2001: 无法解析的外部符号 __imp_CreateWindowExA
+main.obj : error LNK2001: 无法解析的外部符号 __imp_DefWindowProcA
+main.obj : error LNK2001: 无法解析的外部符号 __imp_AdjustWindowRect
+main.obj : error LNK2001: 无法解析的外部符号 __imp_EnumDisplaySettingsA
+main.obj : error LNK2001: 无法解析的外部符号 __imp_TrackMouseEvent
+main.obj : error LNK2001: 无法解析的外部符号 __imp_ChangeDisplaySettingsA
+main.obj : error LNK2001: 无法解析的外部符号 __imp_ShowWindow
+main.obj : error LNK2001: 无法解析的外部符号 __imp_SetWindowPos
+main.obj : error LNK2001: 无法解析的外部符号 __imp_GetDC
+main.obj : error LNK2001: 无法解析的外部符号 __imp_DestroyWindow
+main.obj : error LNK2001: 无法解析的外部符号 __imp_GetWindowRect
+main.obj : error LNK2001: 无法解析的外部符号 __imp_DispatchMessageA
+main.obj : error LNK2001: 无法解析的外部符号 __imp_GetMessageA
+D:\college\Junior\计算机视觉\Homework\Homework6\Homework6\x64\Release\Homework6.exe : fatal error LNK1120: 20 个无法解析的外部命令

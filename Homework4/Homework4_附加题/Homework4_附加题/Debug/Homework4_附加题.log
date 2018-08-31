@@ -1,0 +1,7 @@
+﻿  morphing.cpp
+d:\college\junior\计算机视觉\homework\homework4\homework4_附加题\homework4_附加题\morphing.cpp(59): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+d:\college\junior\计算机视觉\homework\homework4\homework4_附加题\homework4_附加题\morphing.cpp(59): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\college\junior\计算机视觉\homework\homework4\homework4_附加题\homework4_附加题\morphing.cpp(60): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+d:\college\junior\计算机视觉\homework\homework4\homework4_附加题\homework4_附加题\morphing.cpp(60): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  Homework4_附加题.vcxproj -> D:\college\Junior\计算机视觉\Homework\Homework4\Homework4_附加题\Debug\Homework4_附加题.exe
+  Homework4_附加题.vcxproj -> D:\college\Junior\计算机视觉\Homework\Homework4\Homework4_附加题\Debug\Homework4_附加题.pdb (Partial PDB)

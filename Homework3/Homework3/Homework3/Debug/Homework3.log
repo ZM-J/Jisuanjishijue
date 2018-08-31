@@ -1,0 +1,16 @@
+﻿  hough.cpp
+d:\college\junior\计算机视觉\homework\homework3\homework3\homework3\hough.cpp(49): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\college\junior\计算机视觉\homework\homework3\homework3\homework3\hough.cpp(61): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\college\junior\计算机视觉\homework\homework3\homework3\homework3\hough.cpp(111): warning C4018: “<”: 有符号/无符号不匹配
+d:\college\junior\计算机视觉\homework\homework3\homework3\homework3\hough.cpp(112): warning C4018: “<”: 有符号/无符号不匹配
+d:\college\junior\计算机视觉\homework\homework3\homework3\homework3\hough.cpp(126): warning C4018: “<”: 有符号/无符号不匹配
+d:\college\junior\计算机视觉\homework\homework3\homework3\homework3\hough.cpp(138): warning C4018: “<”: 有符号/无符号不匹配
+d:\college\junior\计算机视觉\homework\homework3\homework3\homework3\hough.cpp(151): warning C4018: “<”: 有符号/无符号不匹配
+d:\college\junior\计算机视觉\homework\homework3\homework3\homework3\hough.cpp(154): warning C4018: “<”: 有符号/无符号不匹配
+d:\college\junior\计算机视觉\homework\homework3\homework3\homework3\hough.cpp(155): warning C4018: “<”: 有符号/无符号不匹配
+d:\college\junior\计算机视觉\homework\homework3\homework3\homework3\hough.cpp(158): warning C4018: “<”: 有符号/无符号不匹配
+d:\college\junior\计算机视觉\homework\homework3\homework3\homework3\hough.cpp(160): warning C4018: “<”: 有符号/无符号不匹配
+d:\college\junior\计算机视觉\homework\homework3\homework3\homework3\hough.cpp(161): warning C4018: “<”: 有符号/无符号不匹配
+d:\college\junior\计算机视觉\homework\homework3\homework3\homework3\hough.cpp(180): warning C4018: “<”: 有符号/无符号不匹配
+  Homework3.vcxproj -> D:\college\Junior\计算机视觉\Homework\Homework3\Homework3\Debug\Homework3_part1.exe
+  Homework3.vcxproj -> D:\college\Junior\计算机视觉\Homework\Homework3\Homework3\Debug\Homework3_part1.pdb (Partial PDB)

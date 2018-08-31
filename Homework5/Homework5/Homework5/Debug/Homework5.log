@@ -1,0 +1,313 @@
+﻿  main.cpp
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(463): warning C4251: “Magick::DrawableBezier::_coordinates”: class“std::vector<Magick::Coordinate,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::DrawableBezier”的客户端使用
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(71): note: 参见“std::vector<Magick::Coordinate,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(572): warning C4251: “Magick::DrawablePushClipPath::_id”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::DrawablePushClipPath”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(600): warning C4251: “Magick::DrawableClipPath::_id”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::DrawableClipPath”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(844): warning C4251: “Magick::DrawableDensity::_density”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::DrawableDensity”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(986): warning C4251: “Magick::DrawableFillPatternUrl::_url”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::DrawableFillPatternUrl”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(1081): warning C4251: “Magick::DrawableFont::_font”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::DrawableFont”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(1082): warning C4251: “Magick::DrawableFont::_family”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::DrawableFont”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(1198): warning C4251: “Magick::DrawablePath::_path”: class“std::vector<Magick::VPath,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::DrawablePath”的客户端使用
+          with
+          [
+              _Ty=Magick::VPath
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(207): note: 参见“std::vector<Magick::VPath,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::VPath
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(1287): warning C4251: “Magick::DrawablePolygon::_coordinates”: class“std::vector<Magick::Coordinate,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::DrawablePolygon”的客户端使用
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(71): note: 参见“std::vector<Magick::Coordinate,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(1307): warning C4251: “Magick::DrawablePolyline::_coordinates”: class“std::vector<Magick::Coordinate,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::DrawablePolyline”的客户端使用
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(71): note: 参见“std::vector<Magick::Coordinate,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(1391): warning C4251: “Magick::DrawablePushPattern::_id”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::DrawablePushPattern”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(1877): warning C4251: “Magick::DrawableStrokePatternUrl::_url”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::DrawableStrokePatternUrl”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(2053): warning C4251: “Magick::DrawableText::_text”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::DrawableText”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(2054): warning C4251: “Magick::DrawableText::_encoding”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::DrawableText”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(2489): warning C4251: “Magick::PathArcAbs::_coordinates”: class“std::vector<Magick::PathArcArgs,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::PathArcAbs”的客户端使用
+          with
+          [
+              _Ty=Magick::PathArcArgs
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(2454): note: 参见“std::vector<Magick::PathArcArgs,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::PathArcArgs
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(2511): warning C4251: “Magick::PathArcRel::_coordinates”: class“std::vector<Magick::PathArcArgs,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::PathArcRel”的客户端使用
+          with
+          [
+              _Ty=Magick::PathArcArgs
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(2454): note: 参见“std::vector<Magick::PathArcArgs,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::PathArcArgs
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(2662): warning C4251: “Magick::PathCurvetoAbs::_args”: class“std::vector<Magick::PathCurvetoArgs,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::PathCurvetoAbs”的客户端使用
+          with
+          [
+              _Ty=Magick::PathCurvetoArgs
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(2628): note: 参见“std::vector<Magick::PathCurvetoArgs,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::PathCurvetoArgs
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(2685): warning C4251: “Magick::PathCurvetoRel::_args”: class“std::vector<Magick::PathCurvetoArgs,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::PathCurvetoRel”的客户端使用
+          with
+          [
+              _Ty=Magick::PathCurvetoArgs
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(2628): note: 参见“std::vector<Magick::PathCurvetoArgs,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::PathCurvetoArgs
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(2709): warning C4251: “Magick::PathSmoothCurvetoAbs::_coordinates”: class“std::vector<Magick::Coordinate,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::PathSmoothCurvetoAbs”的客户端使用
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(71): note: 参见“std::vector<Magick::Coordinate,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(2734): warning C4251: “Magick::PathSmoothCurvetoRel::_coordinates”: class“std::vector<Magick::Coordinate,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::PathSmoothCurvetoRel”的客户端使用
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(71): note: 参见“std::vector<Magick::Coordinate,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(2843): warning C4251: “Magick::PathQuadraticCurvetoAbs::_args”: class“std::vector<Magick::PathQuadraticCurvetoArgs,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::PathQuadraticCurvetoAbs”的客户端使用
+          with
+          [
+              _Ty=Magick::PathQuadraticCurvetoArgs
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(2809): note: 参见“std::vector<Magick::PathQuadraticCurvetoArgs,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::PathQuadraticCurvetoArgs
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(2867): warning C4251: “Magick::PathQuadraticCurvetoRel::_args”: class“std::vector<Magick::PathQuadraticCurvetoArgs,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::PathQuadraticCurvetoRel”的客户端使用
+          with
+          [
+              _Ty=Magick::PathQuadraticCurvetoArgs
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(2809): note: 参见“std::vector<Magick::PathQuadraticCurvetoArgs,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::PathQuadraticCurvetoArgs
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(2891): warning C4251: “Magick::PathSmoothQuadraticCurvetoAbs::_coordinates”: class“std::vector<Magick::Coordinate,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::PathSmoothQuadraticCurvetoAbs”的客户端使用
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(71): note: 参见“std::vector<Magick::Coordinate,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(2915): warning C4251: “Magick::PathSmoothQuadraticCurvetoRel::_coordinates”: class“std::vector<Magick::Coordinate,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::PathSmoothQuadraticCurvetoRel”的客户端使用
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(71): note: 参见“std::vector<Magick::Coordinate,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(2943): warning C4251: “Magick::PathLinetoAbs::_coordinates”: class“std::vector<Magick::Coordinate,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::PathLinetoAbs”的客户端使用
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(71): note: 参见“std::vector<Magick::Coordinate,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(2967): warning C4251: “Magick::PathLinetoRel::_coordinates”: class“std::vector<Magick::Coordinate,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::PathLinetoRel”的客户端使用
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(71): note: 参见“std::vector<Magick::Coordinate,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(3109): warning C4251: “Magick::PathMovetoAbs::_coordinates”: class“std::vector<Magick::Coordinate,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::PathMovetoAbs”的客户端使用
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(71): note: 参见“std::vector<Magick::Coordinate,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(3133): warning C4251: “Magick::PathMovetoRel::_coordinates”: class“std::vector<Magick::Coordinate,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::PathMovetoRel”的客户端使用
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(71): note: 参见“std::vector<Magick::Coordinate,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::Coordinate
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\exception.h(23): warning C4275: 非 dll 接口 class“std::exception”用作 dll 接口 class“Magick::Exception”的基
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\vcruntime_exception.h(45): note: 参见“std::exception”的声明
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\exception.h(22): note: 参见“Magick::Exception”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\exception.h(56): warning C4251: “Magick::Exception::_what”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::Exception”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\statistic.h(70): warning C4251: “Magick::ChannelMoments::_huInvariants”: class“std::vector<double,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::ChannelMoments”的客户端使用
+          with
+          [
+              _Ty=double
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\statistic.h(70): note: 参见“std::vector<double,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=double
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\statistic.h(125): warning C4251: “Magick::ChannelPerceptualHash::_srgbHuPhash”: class“std::vector<double,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::ChannelPerceptualHash”的客户端使用
+          with
+          [
+              _Ty=double
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\statistic.h(70): note: 参见“std::vector<double,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=double
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\statistic.h(126): warning C4251: “Magick::ChannelPerceptualHash::_hclpHuPhash”: class“std::vector<double,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::ChannelPerceptualHash”的客户端使用
+          with
+          [
+              _Ty=double
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\statistic.h(70): note: 参见“std::vector<double,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=double
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\statistic.h(240): warning C4251: “Magick::ImageMoments::_channels”: class“std::vector<Magick::ChannelMoments,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::ImageMoments”的客户端使用
+          with
+          [
+              _Ty=Magick::ChannelMoments
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\statistic.h(240): note: 参见“std::vector<Magick::ChannelMoments,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::ChannelMoments
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\statistic.h(278): warning C4251: “Magick::ImagePerceptualHash::_channels”: class“std::vector<Magick::ChannelPerceptualHash,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::ImagePerceptualHash”的客户端使用
+          with
+          [
+              _Ty=Magick::ChannelPerceptualHash
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\statistic.h(278): note: 参见“std::vector<Magick::ChannelPerceptualHash,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::ChannelPerceptualHash
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\statistic.h(303): warning C4251: “Magick::ImageStatistics::_channels”: class“std::vector<Magick::ChannelStatistics,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::ImageStatistics”的客户端使用
+          with
+          [
+              _Ty=Magick::ChannelStatistics
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\statistic.h(303): note: 参见“std::vector<Magick::ChannelStatistics,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::ChannelStatistics
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\coderinfo.h(76): warning C4251: “Magick::CoderInfo::_description”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::CoderInfo”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\coderinfo.h(81): warning C4251: “Magick::CoderInfo::_mimeType”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::CoderInfo”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\coderinfo.h(82): warning C4251: “Magick::CoderInfo::_module”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::CoderInfo”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\coderinfo.h(83): warning C4251: “Magick::CoderInfo::_name”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::CoderInfo”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\montage.h(98): warning C4251: “Magick::Montage::_fileName”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::Montage”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\montage.h(100): warning C4251: “Magick::Montage::_font”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::Montage”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\montage.h(103): warning C4251: “Magick::Montage::_label”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::Montage”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\montage.h(107): warning C4251: “Magick::Montage::_texture”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::Montage”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\montage.h(109): warning C4251: “Magick::Montage::_title”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::Montage”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\stl.h(132): warning C4251: “Magick::annotateImage::_text”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::annotateImage”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\stl.h(211): warning C4251: “Magick::cdlImage::_cdl”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::cdlImage”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\stl.h(271): warning C4251: “Magick::commentImage::_comment”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::commentImage”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\stl.h(383): warning C4251: “Magick::drawImage::_drawableList”: class“std::vector<Magick::Drawable,std::allocator<_Ty>>”需要有 dll 接口由 class“Magick::drawImage”的客户端使用
+          with
+          [
+              _Ty=Magick::Drawable
+          ]
+  d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\drawable.h(144): note: 参见“std::vector<Magick::Drawable,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Magick::Drawable
+          ]
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\stl.h(662): warning C4251: “Magick::labelImage::_label”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::labelImage”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\stl.h(1288): warning C4251: “Magick::backgroundTextureImage::_backgroundTexture”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::backgroundTextureImage”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\stl.h(1467): warning C4251: “Magick::fileNameImage::_fileName”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::fileNameImage”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\stl.h(1491): warning C4251: “Magick::fontImage::_font”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::fontImage”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\stl.h(1539): warning C4251: “Magick::magickImage::_magick”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::magickImage”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\include\magick++\stl.h(1836): warning C4251: “Magick::x11DisplayImage::_display”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Magick::x11DisplayImage”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xstring(4347): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+  Homework5.vcxproj -> D:\college\Junior\计算机视觉\Homework\Homework5\Homework5\Debug\Homework5.exe

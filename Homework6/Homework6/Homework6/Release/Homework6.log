@@ -1,0 +1,31 @@
+﻿  cylindral.cpp
+d:\college\junior\计算机视觉\homework\homework6\homework6\homework6\cylindral.cpp(22): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+d:\college\junior\计算机视觉\homework\homework6\homework6\homework6\cylindral.cpp(22): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  main.cpp
+d:\college\junior\计算机视觉\homework\homework6\homework6\homework6\main.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+  mosaic.cpp
+d:\college\junior\计算机视觉\homework\homework6\homework6\homework6\mosaic.cpp(34): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\college\junior\计算机视觉\homework\homework6\homework6\homework6\mosaic.cpp(35): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\college\junior\计算机视觉\homework\homework6\homework6\homework6\mosaic.cpp(56): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+d:\college\junior\计算机视觉\homework\homework6\homework6\homework6\mosaic.cpp(56): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\college\junior\计算机视觉\homework\homework6\homework6\homework6\mosaic.cpp(126): warning C4018: “<”: 有符号/无符号不匹配
+d:\college\junior\计算机视觉\homework\homework6\homework6\homework6\mosaic.cpp(147): warning C4244: “=”: 从“const double”转换到“unsigned int”，可能丢失数据
+d:\college\junior\计算机视觉\homework\homework6\homework6\homework6\mosaic.cpp(152): warning C4244: “=”: 从“const double”转换到“unsigned int”，可能丢失数据
+d:\college\junior\计算机视觉\homework\homework6\homework6\homework6\mosaic.cpp(173): warning C4018: “<”: 有符号/无符号不匹配
+  ransac.cpp
+d:\college\junior\计算机视觉\homework\homework6\homework6\homework6\ransac.cpp(9): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  sift.cpp
+d:\college\junior\计算机视觉\homework\homework6\homework6\homework6\sift.cpp(11): warning C4244: “=”: 从“unsigned int”转换到“vl_sift_pix”，可能丢失数据
+  siftmatch.cpp
+d:\college\junior\计算机视觉\homework\homework6\homework6\homework6\siftmatch.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+d:\college\junior\计算机视觉\homework\homework6\homework6\homework6\siftmatch.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+  spherical.cpp
+d:\college\junior\计算机视觉\homework\homework6\homework6\homework6\spherical.cpp(22): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+d:\college\junior\计算机视觉\homework\homework6\homework6\homework6\spherical.cpp(22): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  testtwo.cpp
+d:\college\junior\计算机视觉\homework\homework6\homework6\homework6\testtwo.cpp(50): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+  正在生成代码
+  All 1342 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Homework6.vcxproj -> D:\college\Junior\计算机视觉\Homework\Homework6\Homework6\Release\Homework6.exe
+  已复制         1 个文件。

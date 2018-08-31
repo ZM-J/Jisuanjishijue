@@ -1,0 +1,11 @@
+﻿  iteration.cpp
+  main.cpp
+d:\college\junior\计算机视觉\homework\homework5\homework5\homework5\jpegsr6\jpeg-6b\jmorecfg.h(215): warning C4005: “FAR”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(150): note: 参见“FAR”的前一个定义
+LINK : warning LNK4098: 默认库“LIBCMTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  17 of 833 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    10 functions were new in current compilation
+    107 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Homework5.vcxproj -> D:\college\Junior\计算机视觉\Homework\Homework5\Homework5\Release\Homework5.exe

@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\college\junior\计算机视觉\homework\homework6\homework6\homework6\main.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+  ransac.cpp
+d:\college\junior\计算机视觉\homework\homework6\homework6\homework6\ransac.cpp(9): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  Homework6.vcxproj -> D:\college\Junior\计算机视觉\Homework\Homework6\Homework6\Debug\Homework6.exe
+  已复制         1 个文件。

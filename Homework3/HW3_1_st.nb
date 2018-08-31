@@ -1,0 +1,94 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      3181,         86]
+NotebookOptionsPosition[      2889,         71]
+NotebookOutlinePosition[      3246,         87]
+CellTagsIndexPosition[      3203,         84]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     RowBox[{"Export", "[", 
+      RowBox[{
+       RowBox[{
+       "\"\<D:\\\\college\\\\Junior\\\\\:8ba1\:7b97\:673a\:89c6\:89c9\\\\\
+Homework\\\\Homework3\\\\line_mathematica_st\\\\IMG_\>\"", "<>", 
+        RowBox[{"ToString", "[", "#", "]"}], "<>", "\"\<.bmp\>\""}], ",", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"Show", "[", 
+          RowBox[{"#", ",", 
+           RowBox[{"Graphics", "[", 
+            RowBox[{"{", 
+             RowBox[{"Thick", ",", "Red", ",", 
+              RowBox[{"Line", "/@", 
+               RowBox[{"ImageLines", "[", 
+                RowBox[{
+                 RowBox[{"DeleteSmallComponents", "[", 
+                  RowBox[{
+                   RowBox[{"EdgeDetect", "[", 
+                    RowBox[{"#", ",", "6", ",", "0.04"}], "]"}], ",", "100"}],
+                   "]"}], ",", "0", ",", "0.2", ",", 
+                 RowBox[{"MaxFeatures", "\[Rule]", "4"}]}], "]"}]}]}], "}"}], 
+            "]"}]}], "]"}], "&"}], "@", 
+        RowBox[{"Import", "[", 
+         RowBox[{
+         "\"\<D:\\\\college\\\\Junior\\\\\:8ba1\:7b97\:673a\:89c6\:89c9\\\\\
+Homework\\\\Homework3\\\\Homework3\\\\Homework3\\\\Dataset1\\\\Dataset\\\\IMG_\
+\>\"", "<>", 
+          RowBox[{"ToString", "[", "#", "]"}], "<>", "\"\<.bmp\>\""}], 
+         "]"}]}]}], "]"}], ";"}], "&"}], "/@", 
+   RowBox[{"Range", "[", "6", "]"}]}], ";"}]], "Input",
+ CellChangeTimes->{{3.733054199242326*^9, 3.733054217739649*^9}, {
+   3.733056003202487*^9, 3.7330560032545214`*^9}, {3.7330561401578646`*^9, 
+   3.7330561402219076`*^9}, {3.733088786431613*^9, 3.7330888478841157`*^9}, {
+   3.7330888883053164`*^9, 3.733089071747117*^9}, {3.733089115104578*^9, 
+   3.733089127494896*^9}, 3.7330891827602515`*^9, {3.733089249490652*^9, 
+   3.7330892553384943`*^9}, {3.73308956721167*^9, 3.733089568905297*^9}, {
+   3.733101315774064*^9, 3.7331013185188923`*^9}, {3.7331091679504876`*^9, 
+   3.7331091691772223`*^9}, {3.733109205771428*^9, 3.7331093016209383`*^9}, {
+   3.733109367164479*^9, 3.733109391773174*^9}, {3.7331096212226152`*^9, 
+   3.733109693769615*^9}, {3.7331098737027054`*^9, 3.73310987630844*^9}}],
+
+Cell[BoxData[
+ RowBox[{"Speak", "[", "\"\<Line detection complete.\>\"", "]"}]], "Input",
+ CellChangeTimes->{{3.73310132986545*^9, 3.733101349283383*^9}}]
+},
+WindowSize->{759, 833},
+WindowMargins->{{Automatic, 96}, {-15, Automatic}},
+FrontEndVersion->"11.0 for Microsoft Windows (64-bit) (2016\:5e7410\:67088\
+\:65e5)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 2170, 45, 375, "Input"],
+Cell[2731, 67, 154, 2, 47, "Input"]
+}
+]
+*)
+

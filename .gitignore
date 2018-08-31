@@ -1,0 +1,4 @@
+*.VC.db
+Final/matlab-example/*.txt
+*.vs
+*.zip
